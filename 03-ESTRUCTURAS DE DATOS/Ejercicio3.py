@@ -118,7 +118,7 @@ def insertar_agenda(nombre, numero):
     return agenda
 '''  
 
-# Si elimino nombre = input("Introduce un valor: ") y añado un parametro 1como en el 1. lo meteria a pelo,
+# Si elimino nombre = input("Introduce un valor: ") y añado un parametro como en el 1. lo meteria a pelo,
 # si no, buscaria con el nombre que meto por terminal.
 
 def buscar_agenda():

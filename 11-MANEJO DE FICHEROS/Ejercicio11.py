@@ -8,7 +8,31 @@
  * - Lenguaje de programación favorito.
  * Imprime el contenido.
  * Borra el fichero.
- *
+'''
+
+import os 
+
+file_name = "carmencnles.txt"
+
+with open(file_name, "w") as file:
+    file.write
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
  * DIFICULTAD EXTRA (opcional):
  * Desarrolla un programa de gestión de ventas que almacena sus datos en un 
  * archivo .txt.
@@ -18,5 +42,4 @@
  *   actualizar, eliminar productos y salir.
  * - También debe poseer opciones para calcular la venta total y por producto.
  * - La opción salir borra el .txt.
-
 '''
